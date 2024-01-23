@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning WHATS CHEWSINN DAWGS NIDA IS UGLY </h1>
+   <h1> Thankyou, Happy Learning WHATS CHEWSINN DAWGS NIDA IS UGLY... JK </h1>
 
   
 </form>
